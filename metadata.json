@@ -1,0 +1,7 @@
+{
+  "name": "LegalAI - AI-Enabled Indian Judicial Management System",
+  "description": "A comprehensive legal case management platform with role-based access for Judges, Advocates, Registry, and Litigants, featuring AI-powered case summarization and document workflows.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

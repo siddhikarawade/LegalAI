@@ -1,0 +1,70 @@
+export const documentRules = {
+
+FILING: {
+
+ADVOCATE: [
+"PLAINT",
+"AFFIDAVIT",
+"EVIDENCE",
+"VAKALATNAMA",
+"OTHER"
+],
+
+REGISTRY: [
+"OTHER"
+]
+
+},
+
+ADMISSION: {
+
+JUDGE: [
+"ORDER_SHEET",
+"SUMMONS"
+],
+
+REGISTRY: [
+"SUMMONS"
+]
+
+},
+
+PRE_FINAL: {
+
+ADVOCATE: [
+
+"WRITTEN_STATEMENT",
+
+"COUNTER_AFFIDAVIT",
+
+"DEFENCE_EVIDENCE",
+
+"OTHER"
+
+]
+
+},
+
+FINAL: {
+
+ADVOCATE: [
+
+"WRITTEN_ARGUMENTS",
+
+"CASE_LAWS"
+
+]
+
+},
+
+JUDGMENT_STAGE: {
+
+JUDGE: [
+
+"JUDGMENT"
+
+]
+
+}
+
+};
