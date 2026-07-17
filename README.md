@@ -143,8 +143,6 @@ Provides:
 
 ---
 
----
-
 ## 🎯 Conclusion
 
 The **AI-Enabled Legal Case Classification and Prioritization System** demonstrates how Artificial Intelligence can enhance judicial workflows by automating legal document analysis, case classification, summarization, precedent retrieval, and priority prediction. By combining modern web technologies with advanced NLP models, the system aims to reduce manual effort, improve decision-making, and contribute towards a more efficient, transparent, and accessible judicial process.
