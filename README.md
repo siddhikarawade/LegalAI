@@ -87,7 +87,7 @@ Provides:
 
 ## 🏗 System Architecture
 
-<img width="972" height="484" alt="image" background-color="white" src="https://github.com/user-attachments/assets/8e9b594a-9e12-405f-a6bf-93648138e47e" />
+<img width="972" height="484" alt="image" src="https://github.com/user-attachments/assets/8e9b594a-9e12-405f-a6bf-93648138e47e" />
 
 ---
 
