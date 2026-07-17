@@ -1,4 +1,4 @@
-# ⚖️ LegalAI- AI-Enabled Legal Case Classification & Prioritization System for Indian Judiciary
+# ⚖️ AI-Enabled Legal Case Classification & Prioritization System for Indian Judiciary
 
 > **Accelerating Justice with Artificial Intelligence**
 
