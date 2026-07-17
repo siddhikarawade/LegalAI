@@ -85,13 +85,13 @@ Provides:
 
 ---
 
-# 🏗 System Architecture
+## 🏗 System Architecture
 
 <img width="972" height="484" alt="image" src="https://github.com/user-attachments/assets/8e9b594a-9e12-405f-a6bf-93648138e47e" />
 
 ---
 
-# 🧠 AI Models Used
+## 🧠 AI Models Used
 
 | Model | Purpose |
 |---------|----------|
@@ -105,26 +105,26 @@ Provides:
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-## Frontend
+### Frontend
 
 - React.js
 - TypeScript
 - Tailwind CSS
 - Chart.js
 
-## Backend
+### Backend
 
 - Flask
 - Python
 - REST APIs
 
-## Database
+### Database
 
 - PostgreSQL
 
-## NLP & AI
+### NLP & AI
 
 - HuggingFace Transformers
 - Legal-BERT
@@ -136,7 +136,7 @@ Provides:
 - Qwen 2.5-7B
 - VADER
 
-## OCR
+### OCR
 
 - Tesseract OCR
 - PyMuPDF
